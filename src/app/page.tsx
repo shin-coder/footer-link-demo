@@ -10,7 +10,7 @@ export default function Home() {
         <section className="min-h-screen bg-black grid place-content-center">
           <h1 className="text-white text-5xl">test</h1>
         </section>
-        <button className="bg-amber-900 w-full text-white fixed bottom-0 left-0 font-bold grid place-content-center min-h-15">
+        <button className="bg-amber-900 w-full text-white fixed bottom-10 left-0 font-bold grid place-content-center min-h-15">
           button
         </button>
       </div>
